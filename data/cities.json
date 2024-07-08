@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Torino",
+    "lat": 45.0677551,
+    "lon": 7.6824892,
+    "country": "IT",
+    "region": "Piemonte"
+  },
+  {
+    "name": "Aosta",
+    "lat": 45.7370885,
+    "lon": 7.3196649,
+    "country": "IT",
+    "region": "Valle d'Aosta"
+  },
+  {
+    "name": "Milano",
+    "lat": 45.4641943,
+    "lon": 9.1896346,
+    "country": "IT",
+    "region": "Lombardia"
+  },
+  {
+    "name": "Trento",
+    "lat": 46.0664228,
+    "lon": 11.1257601,
+    "country": "IT",
+    "region": "Trentino-Alto Adige"
+  },
+  {
+    "name": "Venezia",
+    "lat": 45.4371908,
+    "lon": 12.3345898,
+    "country": "IT",
+    "region": "Veneto"
+  },
+  {
+    "name": "Trieste",
+    "lat": 45.6496485,
+    "lon": 13.7772781,
+    "country": "IT",
+    "region": "Friuli-Venezia Giulia"
+  },
+  {
+    "name": "Genova",
+    "lat": 44.40726,
+    "lon": 8.9338624,
+    "country": "IT",
+    "region": "Liguria"
+  },
+  {
+    "name": "Bologna",
+    "lat": 44.4938203,
+    "lon": 11.3426327,
+    "country": "IT",
+    "region": "Emilia-Romagna"
+  },
+  {
+    "name": "Firenze",
+    "lat": 43.7697955,
+    "lon": 11.2556404,
+    "country": "IT",
+    "region": "Toscana"
+  },
+  {
+    "name": "Ancona",
+    "lat": 43.6170137,
+    "lon": 13.5170982,
+    "country": "IT",
+    "region": "Marche"
+  },
+  {
+    "name": "Perugia",
+    "lat": 43.1119613,
+    "lon": 12.3890104,
+    "country": "IT",
+    "region": "Umbria"
+  },
+  {
+    "name": "Roma",
+    "lat": 41.8933203,
+    "lon": 12.4829321,
+    "country": "IT",
+    "region": "Lazio"
+  },
+  {
+    "name": "L'Aquila",
+    "lat": 42.3489203,
+    "lon": 13.3979672,
+    "country": "IT",
+    "region": "Abruzzo"
+  },
+  {
+    "name": "Campobasso",
+    "lat": 41.5597935,
+    "lon": 14.6602725,
+    "country": "IT",
+    "region": "Molise"
+  },
+  {
+    "name": "Napoli",
+    "lat": 40.8358846,
+    "lon": 14.2487679,
+    "country": "IT",
+    "region": "Campania"
+  },
+  {
+    "name": "Bari",
+    "lat": 41.1257843,
+    "lon": 16.8620293,
+    "country": "IT",
+    "region": "Apulia"
+  },
+  {
+    "name": "Potenza",
+    "lat": 40.6384046,
+    "lon": 15.8022077,
+    "country": "IT",
+    "region": "Basilicata"
+  },
+  {
+    "name": "Catanzaro",
+    "lat": 38.9076353,
+    "lon": 16.5960465,
+    "country": "IT",
+    "region": "Calabria"
+  },
+  {
+    "name": "Palermo",
+    "lat": 38.1112268,
+    "lon": 13.3524434,
+    "country": "IT",
+    "region": "Sicily"
+  },
+  {
+    "name": "Cagliari",
+    "lat": 39.2171994,
+    "lon": 9.113311,
+    "country": "IT",
+    "region": "Sardegna"
+  }
+]
